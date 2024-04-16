@@ -1,0 +1,21 @@
+ h5{
+    margin-bottom: 15px;
+    margin-left: 15px;
+ }
+ 
+.sidebar-label-container{
+    display: block;
+    position: relative;
+    padding-left: 15px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    font-family: sans-serif;
+    letter-spacing: 0.1ch;
+}
+span{
+    margin-left: 10px;
+}
+
+ 
